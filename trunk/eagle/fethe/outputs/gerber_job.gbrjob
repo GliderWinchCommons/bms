@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,8.6.3*%
+%TF.CreationDate,2018-07-14T15:57:14Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Donald Haselwood <dehaselwood@gmail.com>*%
+%TJ.B_ID,fethe*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,60.010000*%
+%TJ.B_Size_Y,46.020000*%
+M02*
